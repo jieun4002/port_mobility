@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/* @font-face {
+    font-family: 'SFPro';
+    src: url('../font/SFProText-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+} */
+
+
+@font-face {
+    font-family: 'SFPro';
+    src: url('../font/SFPro-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
